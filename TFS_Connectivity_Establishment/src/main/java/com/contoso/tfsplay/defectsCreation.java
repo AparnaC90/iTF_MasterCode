@@ -70,7 +70,7 @@ public class defectsCreation extends connectivityToTFS
 			System.out.println(newWorkItem.getID());
 			
 		}
-	System.out.println("End of for loop");
+	//System.out.println("End of for loop");
 	}
 	public static void main(final String[] args) throws IOException   
 	{
